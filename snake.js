@@ -1,5 +1,5 @@
 /* snake.js
-   Richard Lee | CIS 580 MWF 2:30 - 3:20
+   Richard Le | CIS 580 MWF 2:30 - 3:20
 */
 /* Global variables */
 var frontBuffer = document.getElementById('snake');
